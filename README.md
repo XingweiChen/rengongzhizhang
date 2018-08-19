@@ -1,1 +1,1 @@
-# rengongzhizhang
+# Implement different nerual network with both numpy and tensorflow
